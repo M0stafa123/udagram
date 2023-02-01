@@ -20,7 +20,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ## ebs configuration
 
-![ebs-config](https://user-images.githubusercontent.com/98834672/216066227-f7f4d2c9-846a-4df6-b36a-052680275367.PNG)
+![config](https://user-images.githubusercontent.com/98834672/216077859-c7b61750-1bd7-476a-a8d8-2a3416f58f57.PNG)
 
 ## ebs status
 
@@ -34,6 +34,10 @@ This application is provided to you as an alternative starter project if you do 
 
 ![url](https://user-images.githubusercontent.com/98834672/216066333-98b29061-0060-4aba-814f-2c4bd69472c6.PNG)
 
+## circle ci env variables
+
+![circleconfig](https://user-images.githubusercontent.com/98834672/216079551-7b7631f5-2a6a-4432-a468-599168fe75a7.PNG)
+
 ## the app
 
 ![app](https://user-images.githubusercontent.com/98834672/216067912-2b1529b8-7f65-4f5d-b1fa-5bcd507d5b6c.PNG)
@@ -41,6 +45,10 @@ This application is provided to you as an alternative starter project if you do 
 ## architecture
 
 ![architecture](https://user-images.githubusercontent.com/98834672/216074232-48e9518b-7429-40f3-833f-b7d8c066661f.png)
+
+## relations
+
+![relations](https://user-images.githubusercontent.com/98834672/216075568-71a11e95-0a9f-44e0-80fe-49d1eb3edc79.PNG)
 
 ### Dependencies
 
