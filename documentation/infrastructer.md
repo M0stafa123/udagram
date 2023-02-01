@@ -12,7 +12,7 @@
 2. the back end response to front end request
 3. the user can see the data via the front end
 
-![architecture](https://user.images.githubusercontent.com/98834672/216074232.48e9518b.7429.40f3.833f.b7d8c066661f.png)
+![architecture](https://user-images.githubusercontent.com/98834672/216074232-48e9518b-7429-40f3-833f-b7d8c066661f.png)
 
 # infrastructure CircleCi
 
@@ -23,4 +23,4 @@
 5. wait approval from the developer or circle ci account owner
 6. begin deploying the app
 
-![circleci](https://user.images.githubusercontent.com/98834672/216134888.846cf6c0.473e.4d9b.a743.5773cc0cdd8f.png)
+![circleci](https://user-images.githubusercontent.com/98834672/216134888-846cf6c0-473e-4d9b-a743-5773cc0cdd8f.png)
