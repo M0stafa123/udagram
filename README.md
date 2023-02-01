@@ -16,6 +16,12 @@ This application is provided to you as an alternative starter project if you do 
 
 ### Dependencies
 
+![bucket](C:\Users\PC\Desktop\pics\bucket)
+![ebs-config](C:\Users\PC\Desktop\pics\config)
+![ebs](C:\Users\PC\Desktop\pics\ebs)
+![rds](C:\Users\PC\Desktop\pics\rds)
+![url](C:\Users\PC\Desktop\pics\static)
+
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
 
