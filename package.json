@@ -13,8 +13,8 @@
         "api:deploy": "cd udagram/udagram-api && npm run deploy",
         "deploy": "npm run api:deploy && npm run frontend:deploy"
     },
-    "dependencies": {
+    "devDependencies": {
         "@types/validator": "^13.7.11",
-        "node": "14.15"
+        "node": "^18.13.0"
     }
 }
