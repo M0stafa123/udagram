@@ -50,6 +50,10 @@ This application is provided to you as an alternative starter project if you do 
 
 ![relations](https://user-images.githubusercontent.com/98834672/216075568-71a11e95-0a9f-44e0-80fe-49d1eb3edc79.PNG)
 
+## circleCI
+
+![circleci](https://user-images.githubusercontent.com/98834672/216081889-907b81d0-5310-432b-b363-db1f7eabc38b.PNG)
+
 ### Dependencies
 
 ```
