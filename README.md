@@ -14,13 +14,35 @@ This application is provided to you as an alternative starter project if you do 
 
 [CircleCi](https://app.circleci.com/pipelines/github/M0stafa123/udagram)
 
-### Dependencies
+## bucket
 
 ![bucket](https://user-images.githubusercontent.com/98834672/216066108-5ed85b7c-f10c-4b60-95fd-1e4b8166179e.PNG)
+
+## ebs configuration
+
 ![ebs-config](https://user-images.githubusercontent.com/98834672/216066227-f7f4d2c9-846a-4df6-b36a-052680275367.PNG)
+
+## ebs status
+
 ![ebs](https://user-images.githubusercontent.com/98834672/216066259-901fd240-2374-499a-95a0-6f08d66b82b5.PNG)
+
+## rds status
+
 ![rds](https://user-images.githubusercontent.com/98834672/216066902-c55f8b64-658a-4a2a-ae3c-6ea931def5fe.PNG)
+
+## static wep
+
 ![url](https://user-images.githubusercontent.com/98834672/216066333-98b29061-0060-4aba-814f-2c4bd69472c6.PNG)
+
+## the app
+
+![app](https://user-images.githubusercontent.com/98834672/216067912-2b1529b8-7f65-4f5d-b1fa-5bcd507d5b6c.PNG)
+
+## architecture
+
+![architecture](https://user-images.githubusercontent.com/98834672/216074232-48e9518b-7429-40f3-833f-b7d8c066661f.png)
+
+### Dependencies
 
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
