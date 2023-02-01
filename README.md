@@ -16,11 +16,11 @@ This application is provided to you as an alternative starter project if you do 
 
 ### Dependencies
 
-![bucket](C:\Users\PC\Desktop\pics\bucket)
-![ebs-config](C:\Users\PC\Desktop\pics\config)
-![ebs](C:\Users\PC\Desktop\pics\ebs)
-![rds](C:\Users\PC\Desktop\pics\rds)
-![url](C:\Users\PC\Desktop\pics\static)
+![bucket](https://user-images.githubusercontent.com/98834672/216066108-5ed85b7c-f10c-4b60-95fd-1e4b8166179e.PNG)
+![ebs-config](https://user-images.githubusercontent.com/98834672/216066227-f7f4d2c9-846a-4df6-b36a-052680275367.PNG)
+![ebs](https://user-images.githubusercontent.com/98834672/216066259-901fd240-2374-499a-95a0-6f08d66b82b5.PNG)
+![rds](https://user-images.githubusercontent.com/98834672/216066902-c55f8b64-658a-4a2a-ae3c-6ea931def5fe.PNG)
+![url](https://user-images.githubusercontent.com/98834672/216066333-98b29061-0060-4aba-814f-2c4bd69472c6.PNG)
 
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
